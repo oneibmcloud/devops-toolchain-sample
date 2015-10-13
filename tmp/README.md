@@ -1,4 +1,4 @@
-# DevOps Tutorial
+# DevOps Toolchain Sample App
 
 ## Getting Started
 

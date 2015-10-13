@@ -1,6 +1,6 @@
 {
   "name": "timeline",
-  "description": "DevOps Tutorial App",
+  "description": "DevOps Toolchain Sample App",
   "version": "0.0.5",
   "engines": {
     "node": ">= 0.10.0"

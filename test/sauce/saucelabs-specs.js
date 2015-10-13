@@ -111,7 +111,7 @@ describe('tutorial (' + desired.browserName + ')', function() {
     browser
       .get(url)
       .title()
-      .should.become('DevOps Tutorial App')
+      .should.become('DevOps Toolchain Sample App')
       .nodeify(done);
   });
 
